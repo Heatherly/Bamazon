@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "npm packages needed for Bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heatherly/Bamazon.git"
+  },
+  "author": "Heather L. Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heatherly/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Heatherly/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0"
+  }
+}
