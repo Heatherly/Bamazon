@@ -1,2 +1,2 @@
 # Bamazon
-Amazon-style CLI using Node, JavaScript and MySQL
+Amazon-style CLI (Command Line Interface) using Node.js, JavaScript and MySQL
