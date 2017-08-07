@@ -17,7 +17,7 @@ var connection = mysql.createConnection({
 connection.connect(function(err) {
   if (err) throw err;
 
-  console.log("connected as id " + connection.threadId + "\n");
+  console.log("Connected to server...\n");
   // run the start function after the connection is made to prompt the user
   displayProducts();
 });
